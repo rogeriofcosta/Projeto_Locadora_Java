@@ -1,4 +1,4 @@
-package ProjetoLocadoraJava.ProjetoLocadoraJava;
+package br.com.projeto.locadora;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
